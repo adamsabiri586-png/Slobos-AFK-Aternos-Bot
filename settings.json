@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "adnanxx123.aternos.me",
+    "port": 29681,
     "version": "",
     "try-creative": false
   },
@@ -72,9 +72,9 @@
     "pick-up-day": false,
     "place-night": false
   },
-  "discord": {
+  "discord": {https://discord.gg/dVbnU9eV
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1511874990251704401/6NncsaBaL987oTZJGHAa9RYYxteHWjV4R9MsApW2jtPXY5lsrg51M083hzf69NX6PcGh",
     "events": {
       "connect": true,
       "disconnect": true,
