@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ADNAN Bot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "https://discord.com/api/webhooks/1511874990251704401/6NncsaBaL987oTZJGHAa9RYYxteHWjV4R9MsApW2jtPXY5lsrg51M083hzf69NX6PcGh",
+    "port": 29681,
     "version": "",
     "try-creative": false
   },
